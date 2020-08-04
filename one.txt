@@ -1,1 +1,2 @@
-This is my new workshop
+This is my new workshop.
+first days learnt abiut git and github. today going to learn about html.
