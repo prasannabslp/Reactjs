@@ -1,0 +1,14 @@
+.image img{
+	height: 30%;
+	width: 30%;
+	border: 2px solid black;
+	padding: 1%;
+	margin: 1%;
+	border-radius: 50%;
+	display: block;
+	margin-right: auto;
+	background-color: yellow;
+}
+*{
+	background-color: skyblue;
+}
