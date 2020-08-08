@@ -1,0 +1,21 @@
+.parent{
+	display: flex;
+	flex-direction: row;
+	border: 1px solid black;
+	margin:2px;
+	padding: 2px; 
+	width: 30%
+	justify-content: center;
+}
+.child1{
+	border: 1px solid black;
+	margin:2px;
+	padding: 2px; 
+	width: 20%;
+}
+.child2{
+	border: 1px solid black;
+	margin:2px;
+	padding: 2px; 
+	width: 70%;
+}
